@@ -1,0 +1,60 @@
+{
+  "transfers": [
+    {
+      "mailAdressTransferPayer": "Corentin.laloz@gmail.com",
+      "transferAmount": 456,
+      "executionTransferDate" : "2021-04-27",
+      "receiverQuestion" : "Quel est le couleur de mon chat ?",
+      "receiverAnswer" : "Roux"
+    },
+    {
+      "mailAdressTransferPayer": "Corentin.laloz@gmail.com",
+      "transferAmount": 200.57,
+      "executionTransferDate" : "2021-04-27",
+      "receiverQuestion" : "Quel est le couleur de mon chat ?",
+      "receiverAnswer" : "Roux"
+    },{
+      "mailAdressTransferPayer": "victordu92@gmail.com",
+      "transferAmount": 50,
+      "executionTransferDate" : "2021-04-27",
+      "receiverQuestion" : "Bonjour",
+      "receiverAnswer" : "Bonsoir"
+    },{
+      "mailAdressTransferPayer": "Corentin.laloz@gmail.com",
+      "transferAmount": 35,
+      "executionTransferDate" : "2021-04-27",
+      "receiverQuestion" : "Quel est le couleur de mon chat ?",
+      "receiverAnswer" : "Roux"
+    },{
+      "mailAdressTransferPayer": "Corentin.laloz@gmail.com",
+      "transferAmount": 90,
+      "executionTransferDate" : "2021-04-27",
+      "receiverQuestion" : "Quel est le couleur de mon chat ?",
+      "receiverAnswer" : "Roux"
+    },{
+      "mailAdressTransferPayer": "victordu92@gmail.com",
+      "transferAmount": 100000,
+      "executionTransferDate" : "2021-04-27",
+      "receiverQuestion" : "Bonjour",
+      "receiverAnswer" : "Bonsoir"
+    },{
+      "mailAdressTransferPayer": "victordu92@gmail.com",
+      "transferAmount": 1250,
+      "executionTransferDate" : "2021-04-27",
+      "receiverQuestion" : "Bonjour",
+      "receiverAnswer" : "Bonsoir"
+    },{
+      "mailAdressTransferPayer": "jean_michel@yahoo.fr",
+      "transferAmount": 5678,
+      "executionTransferDate" : "2021-04-27",
+      "receiverQuestion" : "Yo !",
+      "receiverAnswer" : "Man"
+    },{
+      "mailAdressTransferPayer": "jean_michel@yahoo.fr",
+      "transferAmount": 444,
+      "executionTransferDate" : "2021-04-27",
+      "receiverQuestion" : "Yo !",
+      "receiverAnswer" : "Man"
+    }
+  ]
+}
